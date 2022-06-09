@@ -12,4 +12,3 @@ Feature: Motor GET API Testing
       | carinfobysequence       | https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/carinfobysequence      |
       | citizeninfo             | https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/citizeninfo            |
       | vehiclemakemodel-master | https://api.alrajhitakaful.com/vehiclemakemodel-master   																									 |
-			| fafgaa | |www.amazon.com |

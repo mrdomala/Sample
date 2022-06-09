@@ -1,0 +1,12 @@
+2022-06-01 11:09:25,924  INFO [main] Runner:55 - API_Name : alieninfobyiqamaanddob ,  Endpoint URI : https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/alieninfobyiqamaanddob ,  Status Code : 200 ,  Response Time : 4.35 s 
+2022-06-01 11:09:27,760  INFO [main] Runner:55 - API_Name : alieninfobyiqama ,  Endpoint URI : https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/alieninfobyiqama ,  Status Code : 200 ,  Response Time : 1.715 s 
+2022-06-01 11:09:28,879  INFO [main] Runner:55 - API_Name : addressbyid ,  Endpoint URI : https://api.alrajhitakaful.com/dcp_b_getnationaladdress/addressbyid ,  Status Code : 200 ,  Response Time : 1.013 s 
+2022-06-01 11:09:31,759  INFO [main] Runner:55 - API_Name : carinfobycustom ,  Endpoint URI : https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/carinfobycustom ,  Status Code : 200 ,  Response Time : 2.773 s 
+2022-06-01 11:09:34,029  INFO [main] Runner:55 - API_Name : htpfactor ,  Endpoint URI : https://api.alrajhitakaful.com/dcp_bonusmalusclass/htpfactor ,  Status Code : 200 ,  Response Time : 2.18 s 
+2022-06-01 11:09:36,827  INFO [main] Runner:55 - API_Name : op_ncdeligiblity ,  Endpoint URI : https://api.alrajhitakaful.com/dcp_ncdeligibility/op_ncdeligiblity ,  Status Code : 200 ,  Response Time : 2.643 s 
+2022-06-01 11:09:38,597  INFO [main] Runner:55 - API_Name : carinfobysequence ,  Endpoint URI : https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/carinfobysequence ,  Status Code : 200 ,  Response Time : 1.651 s 
+2022-06-01 11:09:40,133  INFO [main] Runner:55 - API_Name : citizeninfo ,  Endpoint URI : https://api.alrajhitakaful.com/webservice_art_ncis_yakeen2newmotor_orchestrations-1/citizeninfo ,  Status Code : 200 ,  Response Time : 1.396 s 
+2022-06-01 11:09:41,367  INFO [main] Runner:55 - API_Name : vehiclemakemodel-master ,  Endpoint URI : https://api.alrajhitakaful.com/vehiclemakemodel-master ,  Status Code : 401 ,  Response Time : 1.062 s 
+2022-06-01 11:09:41,395  INFO [main] Runner:28 -  <------------------------------ POST Request API Details ------------------------------>
+2022-06-01 11:09:42,747  INFO [main] Runner:58 - API_Name : motorrate ,  Endpoint URI : https://api.alrajhitakaful.com/motorrate/motorrate ,  Status Code : 200 ,  Response Time : 1.223 s 
+2022-06-01 11:09:44,761  INFO [main] Runner:58 - API_Name : quote ,  Endpoint URI : https://api.alrajhitakaful.com/dcp_motorquotation/quote ,  Status Code : 200 ,  Response Time : 1.92 s 
